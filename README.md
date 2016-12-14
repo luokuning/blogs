@@ -3,6 +3,8 @@
 
 所有blog均在issue里有，欢迎讨论。 (请勿提issue)
 
+[2016/12/14 使用 Stream](https://github.com/luokuning/blogs/issues/7)
+
 [2016/6/1 理解 MessageChannel](https://github.com/luokuning/blogs/issues/6)
 
 [2016/5/15 ES6 模块加载: 比你想象的更复杂](https://github.com/luokuning/blogs/issues/5)
