@@ -2,7 +2,7 @@
 翻译，随笔，以及懒得整理……
 
 所有blog均在issue里有，欢迎讨论。 (请勿提issue)
-
+[2017/3/22 如何安全的存储用户密码](https://github.com/luokuning/blogs/issues/9)
 [2017/2/17 理解 SSH 加密与连接过程](https://github.com/luokuning/blogs/issues/8)
 
 [2016/12/14 使用 Stream](https://github.com/luokuning/blogs/issues/7)
