@@ -3,6 +3,8 @@
 
 所有 blog 均在 issue 里有，欢迎讨论。 (请勿提 issue)
 
+[2018/4/17 关于输入验证的一些想法](https://github.com/luokuning/blogs/issues/12)
+
 [2017/11/22 整洁的代码 vs 脏乱的代码: React 最佳实践](https://github.com/luokuning/blogs/issues/11)
 
 [2017/8/15 Web Component](https://github.com/luokuning/blogs/issues/10)
