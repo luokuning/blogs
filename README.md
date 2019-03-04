@@ -3,6 +3,8 @@
 
 所有 blog 均在 issue 里有，欢迎讨论。 (请勿提 issue)
 
+[2019/3/4: 关于 Node.js 正则表达式拒绝服务攻击](https://github.com/luokuning/blogs/issues/13)
+
 [2018/04/17: 关于输入验证的一些想法](https://github.com/luokuning/blogs/issues/12)
 
 [2017/11/22: 整洁的代码 vs 脏乱的代码: React 最佳实践](https://github.com/luokuning/blogs/issues/11)
