@@ -3,6 +3,8 @@
 
 所有 blog 均在 issue 里有，欢迎讨论。 (请勿提 issue)
 
+[2021/06/15: 归纳证明及递归的应用](https://github.com/luokuning/blogs/issues/18)
+
 [2019/12/01: 探讨 TypeScript 中的一些概念](https://github.com/luokuning/blogs/issues/15)
 
 [2019/06/11: 如何同时使用多个不同版本的 Node.js 及 npm 来编译项目](https://github.com/luokuning/blogs/issues/14)
