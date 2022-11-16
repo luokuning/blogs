@@ -3,7 +3,7 @@
 
 所有 blog 均在 issue 里有，欢迎讨论。 (请勿提 issue)
 
-[2022/11/6: react/jsx-runtime](https://github.com/luokuning/blogs/issues/19)
+[2022/11/06: react/jsx-runtime](https://github.com/luokuning/blogs/issues/19)
 
 [2021/06/15: 归纳证明及递归的应用](https://github.com/luokuning/blogs/issues/18)
 
